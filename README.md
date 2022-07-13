@@ -31,5 +31,11 @@
 
 ### Phase 3
 
+#### Back End
 - [Django Queries Cheatsheet](django-queries.md)
+- [ER Diagram for Habit Tracker](er-diagram.md)
+
+
+#### Front End
 - [JS for React](js-for-react.md)
+- [Exercism ETL solution](exercism-etl.md)
